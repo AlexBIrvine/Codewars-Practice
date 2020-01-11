@@ -1,0 +1,7 @@
+# Javascript Codewars Practice
+
+|    Date    | Level |                                                                                       Name                                                                                       |                                                Site Link                                                 |
+| :--------: | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+| 2019/12/31 | 5 kyu | [Extract the domain name from a URL](https://github.com/EternalPractice/Codewars-Practice/blob/master/Javascript/%5B5kyu%5D%20Extract%20the%20domain%20name%20from%20a%20URL.js) | [Codewars](https://www.codewars.com/kata/514a024011ea4fb54200004b/solutions/javascript/me/best_practice) |
+|  2020/1/5  | 6 kyu |                       [Prefill an Array](https://github.com/EternalPractice/Codewars-Practice/blob/master/Javascript/%5B6kyu%5D%20Prefill%20an%20Array.js)                       | [Codewars](https://www.codewars.com/kata/54129112fb7c188740000162/solutions/javascript/me/best_practice) |
+| 2020/1/11  | 5 kyu |                                                                             Regex Password Validator                                                                             | [Codewars](https://www.codewars.com/kata/52e1476c8147a7547a000811/solutions/javascript/me/best_practice) |
