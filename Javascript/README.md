@@ -7,4 +7,6 @@
 | 2020/1/11  | 5 kyu |              [Regex Password Validator](https://github.com/EternalPractice/Codewars-Practice/blob/master/Javascript/%5B5kyu%5D%20Regex%20Password%20Validation.js)               | [Codewars](https://www.codewars.com/kata/52e1476c8147a7547a000811/solutions/javascript/me/best_practice) |
 | 2020/1/14  | 5 kyu |                     [Valid Parentheses](https://github.com/EternalPractice/Codewars-Practice/blob/master/Javascript/%5B5%20kyu%5D%20Valid%20Parentheses.js)                      | [Codewars](https://www.codewars.com/kata/52774a314c2333f0a7000688/solutions/javascript/me/best_practice) |
 
+| 2020/1/28 | 5 kyu | [Regex Password Validator](https://github.com/EternalPractice/Codewars-Practice/blob/master/Javascript/%5B5kyu%5D%20Regex%20Password%20Validation.js) | [Codewars](https://www.codewars.com/kata/52e1476c8147a7547a000811/solutions/javascript/me/best_practice) |
+
 Update for valid braces (2020/1/15)
